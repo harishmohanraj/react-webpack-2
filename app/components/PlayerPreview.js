@@ -7,7 +7,7 @@ function PlayerPreview(props) {
             <div className='column'>
                 <img
                     className='avator'
-                    src={props.avatar}
+                    src={props.avator}
                     alt={'Avatar form '+ props.username} />
                 <h2 className='username'></h2>
             </div>
